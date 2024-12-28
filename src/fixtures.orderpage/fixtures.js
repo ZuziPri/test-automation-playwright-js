@@ -1,0 +1,16 @@
+export const ico = "12345678";
+export const odberatel = "Škola Slunce";
+export const adresa = "Slunečná 38, Sluníčkov";
+export const reditelka = "Alena Nová";
+export const contactPerson = "Elena Daleká";
+export const number = "604852369";
+export const email = "elena.daleka@seznam.cz";
+export const startDate1 = "1.5.2025";
+export const endDate1 = "5.5.2025";
+export const startDate2 = "10.5.2025";
+export const endDate2 = "15.5.2025";
+export const pocet = "25";
+export const vek = "12";
+export const pocetDospelych = "4";
+export const casZacatku = "14:00";
+export const casKonce = "14:00";

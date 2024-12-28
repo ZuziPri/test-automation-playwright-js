@@ -12,9 +12,6 @@ export class OrderPage extends AppPage {
       "Data z ARESu se nepodařilo načíst, vyplňte je prosím ručně"
     );
     this.inputOdberatel = this.page.locator("#client");
-    // this.odberatelPlaceholder = page
-    //   .locator("#client")
-    //   .locator('input[placeholder = "Hledání v ARESu"]');
     this.inputAddress = this.page.locator("#address");
     this.inputReditelka = this.page.locator("#substitute");
     this.inputContactPerson = this.page.locator("#contact_name");
